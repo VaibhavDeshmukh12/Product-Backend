@@ -27,4 +27,4 @@ Ensure you have the following prerequisites installed on your system:
 Clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/VaibhavDeshmukh12/Product-Backend.git
